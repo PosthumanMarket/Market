@@ -1,7 +1,7 @@
 {
   "site": {
-    "siteTitle": "Ocean Market",
-    "siteTagline": "A marketplace to find, publish and trade data sets in the Ocean Network.",
+    "siteTitle": "Posthuman Market",
+    "siteTagline": "A marketplace to find, publish and trade AI Models in the Ocean Network.",
     "siteUrl": "https://market.oceanprotocol.com",
     "siteIcon": "node_modules/@oceanprotocol/art/logo/favicon-white.png",
     "siteImage": "../src/images/share.png",
