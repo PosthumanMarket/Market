@@ -5,7 +5,7 @@
         "node": {
           "childContentJson": {
             "site": {
-              "siteTitle": "Ocean Market",
+              "siteTitle": "Posthuman Market",
               "siteTagline": "A marketplace to find and publish open data sets in the Ocean Network.",
               "siteUrl": "https://market.oceanprotocol.now.sh/",
               "siteIcon": "node_modules/@oceanprotocol/art/logo/favicon-white.png",

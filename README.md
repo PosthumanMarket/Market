@@ -1,6 +1,6 @@
 [![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
-<h1 align="center">Ocean Marketplace</h1>
+<h1 align="center">Posthuman Marketplace</h1>
 
 [![Build Status](https://github.com/oceanprotocol/market/workflows/CI/badge.svg)](https://github.com/oceanprotocol/market/actions)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c85f4d8b-95e1-4010-95a4-2bacd8b90981/deploy-status)](https://app.netlify.com/sites/market-oceanprotocol/deploys)
@@ -365,7 +365,7 @@ We encourage you to fork this repository and create your own data marketplace. W
 
 - The typeface is copyright protected and needs to be changed unless you purchase a license for it.
 - The Ocean Protocol logo is a trademark of the Ocean Protocol Foundation and must be removed from forked versions of the market.
-- The name "Ocean Market" is also copyright protected and should be changed to the name of your market.
+- The name "Posthuman Market" is also copyright protected and should be changed to the name of your market.
 
 Additionally, we would also advise that your retain the text saying "Powered by Ocean Protocol" on your forked version of the marketplace in order to give credit for the development work done by the Ocean Protocol team.
 
